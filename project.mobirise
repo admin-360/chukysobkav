@@ -53,7 +53,7 @@
     "site_lang": "en",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/logo-70x70.png",
     "mbrsiteDomain": "bkavca",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
