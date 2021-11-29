@@ -68,7 +68,7 @@
       "underlineLink": false,
       "opacity": "99",
       "opacityOverlay": "80",
-      "text": "Bạn có đồng ý Chúng tôi mang đến cho Bạn trải nghiệm tốt nhất không? <a href='privacy.html'>cookie policy</a>.",
+      "text": "Bạn có đồng ý Chúng tôi mang đến cho Bạn trải nghiệm tốt nhất không?",
       "textButton": "Đồng ý "
     },
     "gdpr": false
