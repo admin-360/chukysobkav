@@ -56,9 +56,9 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-70x70.png",
     "mbrsiteDomain": "bkavca",
     "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://chukysobkav.com.vn/",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
